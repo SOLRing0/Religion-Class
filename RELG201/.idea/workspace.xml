@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7e15ca3-555e-4a30-ab83-d3e083f1c5fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/ScrapCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Labs/ScrapCode/src/EdgeEDXTests/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/burning bush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/media.io_A02___03_Exodus______ENGKJVO1DA - Part1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/media.io_A02___03_Exodus______ENGKJVO1DA - Part2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/media.io_A02___03_Exodus______ENGKJVO1DA - Part3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/scene1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/scene2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/scene3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gui/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/StartGame.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1U4jsP8zkz9Gvz8ClTM2wwlcRIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RELG 201/Religion-Class" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanch\OneDrive\Documents\CPSC 210\RELG201\Resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanch\OneDrive\Documents\CPSC 210\RELG201\Resources" />
+      <recent name="C:\Users\sanch\OneDrive\Documents\CPSC 210\RELG201\Pictures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="RELG201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e15ca3-555e-4a30-ab83-d3e083f1c5fd" name="Default Changelist" comment="" />
+      <created>1574622967704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574622967704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
